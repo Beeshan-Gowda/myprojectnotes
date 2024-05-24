@@ -10,3 +10,4 @@ class Note(models.Model):
 hello this is for testing
 this is for testing
 commit changes
+automatic build
